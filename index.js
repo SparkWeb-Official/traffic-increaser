@@ -16,7 +16,7 @@ async function makeGetRequest(url) {
 
 // Example usage
 const websiteUrl = "https://github.com/Developer-Utkarsh/";
-const intervalInMilliseconds = 30000; // 30 seconds
+const intervalInMilliseconds = 200000; // 30 seconds
 
 // Set up the interval
 setInterval(() => {
